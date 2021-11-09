@@ -1,0 +1,3 @@
+# Course programing for November 9
+
+This directory will contain our files from our previous multifile project.
